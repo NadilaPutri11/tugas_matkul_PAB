@@ -63,10 +63,10 @@ class _ProductListPageState extends State<ProductListPage> {
       ),
       Product(
         id: '6',
-        name: 'Speaker',
+        name: 'Radio',
         price: 7000000,
-        emoji: '📟',
-        description: 'Speaker untuk produktivitas',
+        emoji: '📻',
+        description: 'Radio untuk produktivitas',
         category: 'Audio',
       ),
     ];
