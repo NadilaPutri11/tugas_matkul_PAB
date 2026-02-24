@@ -1,3 +1,8 @@
 # p4_shoppingcartenhancement
 
-A new Flutter project.
+Nadila Putri
+
+2409116052
+
+B - Sistem Informasi
+
